@@ -1,1 +1,0 @@
-⌘ + d => split window horizontally

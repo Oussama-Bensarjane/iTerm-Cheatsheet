@@ -1,0 +1,2 @@
+#split window horizontally
+⌘ + d
