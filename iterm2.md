@@ -1,8 +1,7 @@
-# previous tab
-⌘ + left arrow
-
-# next tab
-⌘ + right arrow
+Function | Shortcut
+-------- | --------
+# previous tab | ⌘ + left arrow
+# next tab | ⌘ + right arrow
 
 # go to tab
 ⌘ + number
