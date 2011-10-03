@@ -1,4 +1,4 @@
-*Function* | *Shortcut*
+**Function** | **Shortcut**
 -------- | --------
 previous tab | ⌘ + left arrow
 next tab | ⌘ + right arrow
