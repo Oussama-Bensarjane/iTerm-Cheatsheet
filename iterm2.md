@@ -33,7 +33,7 @@ Move to the start of line | `Ctrl` + `a`
 Move to the end of line | `Ctrl` + `e`
 Move forward a word | `Option` + `f`
 Move backward a word | `Option` + `b`
-Clear the screen | `Option` + `l`
+Clear the screen | `⌘` + `k`
 
 Cut and Paste
 =============
