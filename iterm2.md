@@ -31,21 +31,21 @@ Moving Faster
 -------- | --------
 Move to the start of line | `Ctrl` + `a`
 Move to the end of line | `Ctrl` + `e`
-Move forward a word | `Meta` + `f`
-Move backward a word | `Meta` + `b`
-Clear the screen | `Meta` + `l`
+Move forward a word | `Option` + `f`
+Move backward a word | `Option` + `b`
+Clear the screen | `Option` + `l`
 
 Cut and Paste
 =============
 **Function** | **Shortcut**
 -------- | --------
 Cut from cursor to the end of line | `Ctrl` + `k`
-Cut from cursor to the end of word | `Meta` + `d`
-Cut from cursor to the start of word | `Meta` + `Backspace`
+Cut from cursor to the end of word | `Option` + `d`
+Cut from cursor to the start of word | `Option` + `Backspace`
 Cut from cursor to previous whitespace | `Ctrl` + `w`
 Paste the last cut text | `Ctrl` + `w`
-Loop through and paste previously cut text | `Meta` + `y`
-Loop through and paste the last argument of previous commands | `Meta` + `.`
+Loop through and paste previously cut text | `Option` + `y`
+Loop through and paste the last argument of previous commands | `Option` + `.`
 
 Search the Command History
 ==========================
