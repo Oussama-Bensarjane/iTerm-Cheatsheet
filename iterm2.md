@@ -12,3 +12,12 @@ split window horizontally (new profile) | Option + ⌘ + H
 split window vertically (new profile) | Option + ⌘ + V
 Set Mark | ⌘ + M
 Jump to Mark | ⌘ + J
+
+Navigation
+==========
+
+Move back one character | Ctrl + b
+Move forward one character | Ctrl + f
+Delete current character | Ctrl + d
+Delete previous character | Backspace
+Undo | Ctrl + -
