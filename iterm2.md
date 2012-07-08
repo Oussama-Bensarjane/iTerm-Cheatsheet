@@ -51,7 +51,7 @@ Search the Command History
 ==========================
 **Function** | **Shortcut**
 -------- | --------
-Search as you type. `Ctrl` + `r` and type the search term; Repeat `Ctrl` + `r` to loop through result
+Search as you type | `Ctrl` + `r` and type the search term; Repeat `Ctrl` + `r` to loop through result
 Search the last remembered search term | `Ctrl` + `r` twice
 End the search at current history entry  | `Ctrl` + `y`
 Cancel the search and restore original line | `Ctrl` + `g`
