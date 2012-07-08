@@ -15,7 +15,7 @@ Jump to Mark | ⌘ + J
 
 Navigation
 ==========
-
+-------- | --------
 Move back one character | Ctrl + b
 Move forward one character | Ctrl + f
 Delete current character | Ctrl + d
