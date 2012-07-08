@@ -2,18 +2,18 @@ Tabs and Windows
 ================
 **Function** | **Shortcut**
 -------- | --------
-previous tab | ⌘ + left arrow
-next tab | ⌘ + right arrow
-go to tab | ⌘ + number
-go to window | ⌘ + Option + Number
-go to split pane by direction | ⌘ + Option + arrow
-go to split pane by order of use | ⌘ + ] , ⌘ + [
-split window horizontally (same profile) | ⌘ + D
-split window vertically (same profile) | ⌘ + d
-split window horizontally (new profile) | Option + ⌘ + H
-split window vertically (new profile) | Option + ⌘ + V
-Set Mark | ⌘ + M
-Jump to Mark | ⌘ + J
+Previous Tab | `⌘`+ `Left Arrow`
+Next Tab | `⌘`+ `Right Arrow`
+Go to Tab | `⌘` + `Number`
+Go to Window | `⌘` + `Option` + `Number`
+Go to Split Pane by Direction | `⌘` + `Option` + `Arrow`
+Go to Split Pane by Order of Use | `⌘` + `]` , `⌘` + `[`
+Split Window Horizontally (same profile) | `⌘` + `D`
+Split Window Vertically (same profile) | `⌘` + `d`
+Split Window Horizontally (new profile) | `Option` + `⌘` + `H`
+Split Window Vertically (new profile) | `Option` + `⌘` + `V`
+Set Mark | `⌘` + `M`
+Jump to Mark | `⌘` + `J`
 
 Basic Moves
 ===========
