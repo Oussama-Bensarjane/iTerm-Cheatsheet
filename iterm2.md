@@ -18,7 +18,7 @@ Navigation
 **Function** | **Shortcut**
 -------- | --------
 Move back one character | `Ctrl` + `b`
-Move forward one character | Ctrl + f
-Delete current character | Ctrl + d
-Delete previous character | Backspace
-Undo | Ctrl + -
+Move forward one character | `Ctrl` + `f`
+Delete current character | `Ctrl` + `d`
+Delete previous character | `Backspace`
+Undo | `Ctrl` + `-`
