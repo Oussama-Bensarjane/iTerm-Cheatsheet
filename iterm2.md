@@ -35,16 +35,16 @@ Move forward a word | `Option` + `f`
 Move backward a word | `Option` + `b`
 Clear the screen | `⌘` + `k`
 
-Cut and Paste
+COPY and Paste
 =============
 **Function** | **Shortcut**
 -------- | --------
-Cut from cursor to the end of line | `Ctrl` + `k`
-Cut from cursor to the end of word | `Option` + `d`
-Cut from cursor to the start of word | `Option` + `Backspace`
-Cut from cursor to previous whitespace | `Ctrl` + `w`
-Paste the last cut text | `Ctrl` + `w`
-Loop through and paste previously cut text | `Option` + `y`
+Copy from cursor to the end of line | `Ctrl` + `k`
+Copy from cursor to the end of word | `Option` + `d`
+Copy from cursor to the start of word | `Option` + `Backspace`
+Copy from cursor to previous whitespace | `Ctrl` + `w`
+Paste the last copied text | `Ctrl` + `w`
+Loop through and paste previously copy text | `Option` + `y`
 Loop through and paste the last argument of previous commands | `Option` + `.`
 
 Search the Command History
