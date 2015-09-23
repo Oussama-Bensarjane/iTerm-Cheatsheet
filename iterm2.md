@@ -2,6 +2,7 @@ Tabs and Windows
 ================
 **Function** | **Shortcut**
 -------- | --------
+Fullscreen | `⌘`+ `Enter`
 Previous Tab | `⌘`+ `Left Arrow`
 Next Tab | `⌘`+ `Right Arrow`
 Go to Tab | `⌘` + `Number`
