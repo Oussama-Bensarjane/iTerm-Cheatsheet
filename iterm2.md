@@ -73,14 +73,14 @@ Search the Command History
 ==========================
 **Function** | **Shortcut**
 -------- | --------
-Search as you type | `Ctrl` + `r` and type the search term; Repeat `Ctrl` + `r` to loop through result
-Search the last remembered search term | `Ctrl` + `r` twice
-End the search at current history entry  | `Ctrl` + `y`
-Cancel the search and restore original line | `Ctrl` + `g`
+Search as you type | `Ctrl` + `r` and type the search term; Repeat `Ctrl` + `R` to loop through result
+Search the last remembered search term | `Ctrl` + `R` twice
+End the search at current history entry  | `Ctrl` + `Y`
+Cancel the search and restore original line | `Ctrl` + `G`
 
 Misc
 ==========================
 **Function** | **Shortcut**
 -------- | --------
-Clear the screen/pane (when ctrl-l won't work) | `⌘` + `k`  (I use this all the time)
+Clear the screen/pane (when `ctrl + L` won't work) | `⌘` + `K`  (I use this all the time)
 Broadcast command to all panes in window (nice when needed!) | `⌘` + `Alt` + I  (again to toggle)
