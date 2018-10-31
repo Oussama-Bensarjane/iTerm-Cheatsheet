@@ -80,5 +80,7 @@ Cancel the search and restore original line | `Ctrl` + `g`
 
 Misc
 ==========================
+**Function** | **Shortcut**
+-------- | --------
 Clear the screen/pane (when ctrl-l won't work) | `⌘` + `k`  (I use this all the time)
 Broadcast command to all panes in window (nice when needed!) | `⌘` + `Alt` + I  (again to toggle)
