@@ -3,11 +3,11 @@
 
 **Function** | **Shortcut**
 -------- | --------
-New Tab | `⌘` + T
-Close Tab or Window | `⌘` + W  (same as many mac apps)
+New Tab | `⌘` + `T`
+Close Tab or Window | `⌘` + `W`  (same as many mac apps)
 Go to Tab | `⌘` + `Number Key`  (ie: `⌘2` is 2nd tab)
 Go to Split Pane by Direction | `⌘` + `Option` + `Arrow Key`
-Cycle iTerm Windows | `⌘` + `backtick`  (ttrue of all mac apps and works with desktops/mission control)
+Cycle iTerm Windows | `⌘` + `backtick`  (true of all mac apps and works with desktops/mission control)
 **Splitting** | 
 Split Window Vertically (same profile) | `⌘` + `D`
 Split Window Horizontally (same profile) | `⌘` + `Shift` + `D`  (mnemonic: shift is a wide horizontal key)
@@ -15,7 +15,7 @@ Split Window Horizontally (same profile) | `⌘` + `Shift` + `D`  (mnemonic: shi
 Move a pane with the mouse | `⌘` + `Alt` + `Shift` and then drag the pane from anywhere
 **Fullscreen** |
 Fullscreen | `⌘`+ `Enter`
-Maximize a pane | `⌘` + `Shift` + Enter  (use with fullscreen to temp fullscreen a pane!)
+Maximize a pane | `⌘` + `Shift` + `Enter`  (use with fullscreen to temp fullscreen a pane!)
 Resize Pane | `Ctrl` + `⌘` + `Arrow` (given you haven't mapped this to something else)
 **Less Often Used By Me** |
 Go to Split Pane by Order of Use | `⌘` + `]` , `⌘` + `[`
@@ -63,7 +63,7 @@ I don't use this feature too much.
 -------- | --------
 Enter Copy Mode | `Shift` + `⌘` + `C`
 Enter Character Selection Mode in Copy Mode | `Ctrl` + `V`
-Move cursor in Copy Mode | HJKL vim motions or arrow keys
+Move cursor in Copy Mode | `HJKL` vim motions or arrow keys
 Copy text in Copy Mode | `Ctrl` + `K`
 
 Copy actions goes into the normal system clipboard which you can paste like normal.
@@ -73,7 +73,7 @@ Search the Command History
 ==========================
 **Function** | **Shortcut**
 -------- | --------
-Search as you type | `Ctrl` + `r` and type the search term; Repeat `Ctrl` + `R` to loop through result
+Search as you type | `Ctrl` + `R` and type the search term; Repeat `Ctrl` + `R` to loop through result
 Search the last remembered search term | `Ctrl` + `R` twice
 End the search at current history entry  | `Ctrl` + `Y`
 Cancel the search and restore original line | `Ctrl` + `G`
@@ -82,5 +82,5 @@ Misc
 ==========================
 **Function** | **Shortcut**
 -------- | --------
-Clear the screen/pane (when `ctrl + L` won't work) | `⌘` + `K`  (I use this all the time)
-Broadcast command to all panes in window (nice when needed!) | `⌘` + `Alt` + I  (again to toggle)
+Clear the screen/pane (when `Ctrl + L` won't work) | `⌘` + `K`  (I use this all the time)
+Broadcast command to all panes in window (nice when needed!) | `⌘` + `Alt` +  `I` (again to toggle)
