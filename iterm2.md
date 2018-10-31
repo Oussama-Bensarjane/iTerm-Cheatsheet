@@ -8,7 +8,7 @@ Close Tab or Window | `⌘` + W  (same as many applications)
 Go to Tab | `⌘` + `Number Key`  (ie: `⌘2` is 2nd tab)
 Go to Split Pane by Direction | `⌘` + `Option` + `Arrow Key`
 Cycle iTerm Windows | `⌘` + `backtick`  (ttrue of all mac apps and works with desktops/mission control)
- | 
+- | -
 Split Window Vertically (same profile) | `⌘` + `D`
 Split Window Horizontally (same profile) | `⌘` + `Shift` + `D`  (mnemonic: shift is a wide horizontal key)
 
