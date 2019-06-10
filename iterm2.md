@@ -34,7 +34,7 @@ Move back one character | `Ctrl` + `B`
 Move forward one character | `Ctrl` + `F`
 Delete current character | `Ctrl` + `D`
 Delete previous word (in shell) | `Ctrl` + `W`
-Undo | `Ctrl` + `-`
+Moving by word on a line (this is a shell thing but passes through fine)| `Ctrl` + `Left/Right Arrow`
 
 
 Moving Faster
