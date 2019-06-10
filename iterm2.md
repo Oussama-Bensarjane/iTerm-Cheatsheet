@@ -34,7 +34,7 @@ Move back one character | `Ctrl` + `B`
 Move forward one character | `Ctrl` + `F`
 Delete current character | `Ctrl` + `D`
 Delete previous word (in shell) | `Ctrl` + `W`
-Moving by word on a line (this is a shell thing but passes through fine)| `Ctrl` + `Left/Right Arrow`
+
 
 
 Moving Faster
@@ -53,6 +53,8 @@ Move forward a word | `Option` + `F`
 Move backward a word | `Option` + `B`
 Set Mark | `⌘` + `M`
 Jump to Mark | `⌘` + `J`
+Moving by word on a line (this is a shell thing but passes through fine)| `Ctrl` + `Left/Right Arrow`
+Cursor Jump with Mouse (shell and vim - might depend on config) | `Option` + `Left Click`
 
 
 Copy and Paste with iTerm without using the mouse
@@ -84,3 +86,4 @@ Misc
 -------- | --------
 Clear the screen/pane (when `Ctrl + L` won't work) | `⌘` + `K`  (I use this all the time)
 Broadcast command to all panes in window (nice when needed!) | `⌘` + `Alt` +  `I` (again to toggle)
+Find Cursor | `⌘` + `/`  _or use a theme or cursor shape that is easy to see_
