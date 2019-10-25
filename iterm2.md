@@ -26,8 +26,7 @@ Next Tab | `⌘`+ `Right Arrow`
 Go to Window | `⌘` + `Option` + `Number`
 
 
-My Favorite Shell Key Combos
-===========
+## My Favorite Shell Key Combos
 
 These might be helpful to getting you faster with the shell but really this
 isn't iTerm2 specific.  I'm assuming you are using bash or zsh on Mac.
@@ -48,8 +47,7 @@ Clear screen | `Ctrl` + `L` | This is telling the shell to do it.  When this doe
 
 
 
-Moving Faster
-=============
+## Moving Faster
 
 A lot of shell shortcuts work in iterm and it's good to learn these because arrow keys, home/end
 keys and Mac equivalents don't always work.  For example `⌘` + `Left Arrow` is usually the same as `Home`
@@ -68,8 +66,8 @@ Moving by word on a line (this is a shell thing but passes through fine)| `Ctrl`
 Cursor Jump with Mouse (shell and vim - might depend on config) | `Option` + `Left Click`
 
 
-Copy and Paste with iTerm without using the mouse
-=============
+## Copy and Paste with iTerm without using the mouse
+
 I don't use this feature too much.
 
 **Function** | **Shortcut**
@@ -82,8 +80,8 @@ Copy text in Copy Mode | `Ctrl` + `K`
 Copy actions goes into the normal system clipboard which you can paste like normal.
 
 
-Search the Command History
-==========================
+## Search the Command History
+
 **Function** | **Shortcut**
 -------- | --------
 Search as you type | `Ctrl` + `R` and type the search term; Repeat `Ctrl` + `R` to loop through result
@@ -91,8 +89,8 @@ Search the last remembered search term | `Ctrl` + `R` twice
 End the search at current history entry  | `Ctrl` + `Y`
 Cancel the search and restore original line | `Ctrl` + `G`
 
-Misc
-==========================
+## Misc
+
 **Function** | **Shortcut**
 -------- | --------
 Clear the screen/pane (when `Ctrl + L` won't work) | `⌘` + `K`  (I use this all the time)
