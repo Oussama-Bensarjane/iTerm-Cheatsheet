@@ -28,12 +28,19 @@ Go to Window | `⌘` + `Option` + `Number`
 
 Basic Moves
 ===========
-**Function** | **Shortcut**
--------- | --------
-Move back one character | `Ctrl` + `B`
-Move forward one character | `Ctrl` + `F`
-Delete current character | `Ctrl` + `D`
-Delete previous word (in shell) | `Ctrl` + `W`
+
+These might be helpful to getting you faster with the shell but really this
+isn't iTerm2 specific.  I'm assuming you are using bash or zsh on Mac.
+
+**Function** | **Shortcut** | **Use**
+-------- | -------- | --------
+Delete to start of line (favorite) | `Ctrl` + `U` | Use this to start over typing without hitting Ctrl-C
+Delete to end of line (favorite) | `Ctrl` + `K` | Use this with command history to repeat commands and changing one thing at the end!
+Repeat last command | `Ctrl` + `Up Arrow` | Cycle and browse your history with up and down.  `Ctrl-R` is faster if you know the string you are looking for.
+Move back and forth on a line | `Arrow Keys` | This takes you off the home row but it's easy to remember
+Move back and forth on a line by words | `Ctrl` + `Arrow Keys` | Fast way to jump to a word to correct a typo or "run again" with minor changes
+Delete previous word (in shell) | `Ctrl` + `W` | Faster to delete by words
+Clear screen | `Ctrl` + `L` | This is telling the shell to do it.  When this doesn't work `⌘` + `C` will tell iTerm to do it which works when you aren't in a shell.
 
 
 
