@@ -26,11 +26,15 @@ Next Tab | `⌘`+ `Right Arrow`
 Go to Window | `⌘` + `Option` + `Number`
 
 
-Basic Moves
+My Favorite Shell Key Combos
 ===========
 
 These might be helpful to getting you faster with the shell but really this
 isn't iTerm2 specific.  I'm assuming you are using bash or zsh on Mac.
+There are many tips but I use these quite a bit.  There is also more than one way
+to do it sometimes so adopt what you like best.
+
+Hopefully some of these change your life.  :)
 
 **Function** | **Shortcut** | **Use**
 -------- | -------- | --------
