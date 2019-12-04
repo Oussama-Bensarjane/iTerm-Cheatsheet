@@ -42,7 +42,7 @@ Delete to end of line (favorite) | `Ctrl` + `K` | Use this with command history 
 Repeat last command | `Ctrl` + `Up Arrow` | Cycle and browse your history with up and down.  `Ctrl-R` is faster if you know the string you are looking for.
 Move back and forth on a line | `Arrow Keys` | This takes you off the home row but it's easy to remember
 Move back and forth on a line by words | `Ctrl` + `Arrow Keys` | Fast way to jump to a word to correct a typo or "run again" with minor changes
-Delete previous word (in shell) | `Ctrl` + `W` | Faster to delete by words
+Delete previous word (in shell) | `Ctrl` + `W` | It's faster to delete by words.  Especially when your last command was wrong by a single typo or something.
 Clear screen | `Ctrl` + `L` | This is telling the shell to do it.  When this doesn't work `⌘` + `K` will tell iTerm to do it which works when you aren't in a shell.  Use this instead of typing `clear` over and over.
 
 
