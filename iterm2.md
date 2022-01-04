@@ -37,13 +37,13 @@ Hopefully some of these change your life.  :)
 
 **Function** | **Shortcut** | **Use**
 -------- | -------- | --------
-Delete to start of line (favorite) | `Ctrl` + `U` | Use this to start over typing without hitting Ctrl-C
-Delete to end of line (favorite) | `Ctrl` + `K` | Use this with command history to repeat commands and changing one thing at the end!
+Delete to start of line | `Ctrl` + `U` | Use this to start over typing without hitting Ctrl-C
+Delete to end of line | `Ctrl` + `K` | Use this with command history to repeat commands and changing one thing at the end!
 Repeat last command | `Up Arrow` | Cycle and browse your history with up and down.  `Ctrl-R` is faster if you know the string you are looking for.
 Move back and forth on a line | `Arrow Keys` | This takes you off the home row but it's easy to remember
 Move back and forth on a line by words | `⌥` + `Arrow Keys` | Fast way to jump to a word to correct a typo or "run again" with minor changes
 Delete previous word (in shell) | `Ctrl` + `W` | It's faster to delete by words.  Especially when your last command was wrong by a single typo or something.
-Clear screen | `Ctrl` + `L` | This is telling the shell to do it.  When this doesn't work `⌘` + `K` will tell iTerm to do it which works when you aren't in a shell.  Use this instead of typing `clear` over and over.
+Clear screen | `Ctrl` + `L` | This is telling the shell to do it instead of an explicit command like `clear` or `cls` in DOS.  If you use `⌘` + `K`, this is telling iTerm to clear the screen which might have the same result or do something terrible (like when using a TUI like `top` or `htop`.  In general, use this instead of typing `clear` over and over.
 
 
 
@@ -68,7 +68,7 @@ Cursor Jump with Mouse (shell and vim - might depend on config) | `Option` + `Le
 
 ## Copy and Paste with iTerm without using the mouse
 
-I don't use this feature too much.
+I don't use this feature too much.  I instead just mouse select (which copies to the clipboard) and paste.  There's no need to Copy to the clipboard if you have `General > Selection > Copy to pasteboard on selection` enabled.
 
 **Function** | **Shortcut**
 -------- | --------
@@ -81,6 +81,8 @@ Copy actions goes into the normal system clipboard which you can paste like norm
 
 
 ## Search the Command History
+
+Some of these are not directly related to iTerm and are just "shell features".  Like, if you open Terminal.app on Mac some of these still work because it's the shell and not iTerm.  I'm including them anyway.
 
 **Function** | **Shortcut**
 -------- | --------
