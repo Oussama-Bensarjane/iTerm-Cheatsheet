@@ -42,7 +42,7 @@ Delete to start of line | `Ctrl` + `U` | Use this to start over typing without h
 Delete to end of line | `Ctrl` + `K` | Use this with command history to repeat commands and changing one thing at the end!
 Repeat last command | `Up Arrow` | Cycle and browse your history with up and down.  `Ctrl-R` is faster if you know the string you are looking for.
 Move back and forth on a line | `Arrow Keys` | This takes you off the home row but it's easy to remember
-Move back and forth on a line by words | `⌥` + `Arrow Keys` | Fast way to jump to a word to correct a typo or "run again" with minor changes
+Move back and forth on a line by words | `⌥` + `Arrow Keys` | Fast way to jump by words to correct a typo or "run again" with minor changes to last command.  Ctrl as modifier might also work on mac and non-mac keyboards/shells/apps.
 Delete previous word (in shell) | `Ctrl` + `W` | It's faster to delete by words.  Especially when your last command was wrong by a single typo or something.
 Clear screen | `Ctrl` + `L` | This is telling the shell to do it instead of an explicit command like `clear` or `cls` in DOS.  If you use `⌘` + `K`, this is telling iTerm to clear the screen which might have the same result or do something terrible (like when using a TUI like `top` or `htop`.  In general, use this instead of typing `clear` over and over.
 Exit Shell | `Ctrl` + `D` | Instead of typing exit, just get this in muscle memory.  It works in many contexts.
