@@ -36,7 +36,7 @@ There is also more than one way to do a thing so adopt what you like best.
 
 Hopefully some of these improve your work life.  :)
 
-**Function** | **Shortcut** | **Use**
+**Function** | **Key Combination** | **Use**
 -------- | -------- | --------
 Delete to start of line | `Ctrl` + `U` | Use this to start over typing without hitting Ctrl-C
 Delete to end of line | `Ctrl` + `K` | Use this with command history to repeat commands and changing one thing at the end!
