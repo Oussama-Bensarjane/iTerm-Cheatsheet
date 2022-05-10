@@ -28,12 +28,13 @@ Go to Window | `⌘` + `Option` + `Number`
 
 ## My Favorite Shell Key Combos
 
-These might be helpful to getting you faster with the shell but really this
-isn't iTerm2 specific.  I'm assuming you are using bash or zsh on Mac.
-There are many tips but I use these quite a bit.  There is also more than one way
-to do it sometimes so adopt what you like best.
+These might be helpful to getting you faster with the shell.
+These are just common shell shortcuts unrelated to iTerm itelf.
+These will usually work in Bash/Zsh/Fish on Mac and on Linux.
+There are many shortcuts out there but I use these quite a bit.
+There is also more than one way to do a thing so adopt what you like best.
 
-Hopefully some of these change your life.  :)
+Hopefully some of these improve your work life.  :)
 
 **Function** | **Shortcut** | **Use**
 -------- | -------- | --------
@@ -44,6 +45,7 @@ Move back and forth on a line | `Arrow Keys` | This takes you off the home row b
 Move back and forth on a line by words | `⌥` + `Arrow Keys` | Fast way to jump to a word to correct a typo or "run again" with minor changes
 Delete previous word (in shell) | `Ctrl` + `W` | It's faster to delete by words.  Especially when your last command was wrong by a single typo or something.
 Clear screen | `Ctrl` + `L` | This is telling the shell to do it instead of an explicit command like `clear` or `cls` in DOS.  If you use `⌘` + `K`, this is telling iTerm to clear the screen which might have the same result or do something terrible (like when using a TUI like `top` or `htop`.  In general, use this instead of typing `clear` over and over.
+Exit Shell | `Ctrl` + `D` | Instead of typing exit, just get this in muscle memory.  It works in many contexts.
 
 
 
