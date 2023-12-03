@@ -58,15 +58,21 @@ takes you away from the home row.
 
 **Function** | **Shortcut**
 -------- | --------
-Move to the start of line | `Ctrl` + `A` or `Home`
-Move to the end of line | `Ctrl` + `E` or `End`
-Move forward a word | `Option` + `F`
-Move backward a word | `Option` + `B`
-Set Mark | `⌘` + `M`
-Jump to Mark | `⌘` + `J`
+Move to the start of line | `Ctrl` + `A` or `Home` (Home is fn+Left arrow)
+Move to the end of line | `Ctrl` + `E` or `End` (End is fn+Right arrow)
 Moving by word on a line (this is a shell thing but passes through fine)| `Ctrl` + `Left/Right Arrow`
 Cursor Jump with Mouse (shell and vim - might depend on config) | `Option` + `Left Click`
 
+### About keyboard shortcuts 💡
+> So, some keyboard shortcuts are Mac's.  For example fn+Left Arrow is the Home key.  On a fullsize Mac keyboard, there is a Home key.  Home will usually pass through to iTerm and the shell.  By shell, I mean zsh, bash or fish.  The shell is the program running inside of iTerm when you open iTerm.  If you launch `vim` or something, zsh/bash/fish is "gone" because vim is running.  So, it's complicated to explain when keys work and when they don't.
+>
+> For example, Home will work in zsh.  It will take you to the beginning of the line.  If your cursor is at the end of "three" in this below example
+> ```
+> one two three|
+> ```
+> When you press Home (fn+Left Arrow) your cursor will be on one: `|one`
+> So, in this way, Home works the same in "the shell" as it does in TextEdit.app or any basic text box on Mac.
+> This is not the case if you start up `vim` or `emacs`.  This is not iTerm's fault.  This is just how Mac/Linux works.  Just a head's up on that little detail.
 
 ## Copy and Paste with iTerm without using the mouse
 
