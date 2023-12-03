@@ -21,7 +21,7 @@ Resize Pane | `Ctrl` + `⌘` + `Arrow` (given you haven't mapped this to somethi
 Go to Split Pane by Order of Use | `⌘` + `]` , `⌘` + `[`
 Split Window Horizontally (new profile) | `Option` + `⌘` + `H`
 Split Window Vertically (new profile) | `Option` + `⌘` + `V`
-Previous Tab | `⌘`+ `Left Arrow`  (I usually move by tab number)
+Previous Tab | `⌘`+ `Left Arrow`  (I usually move by tab number like `⌘+1`)
 Next Tab | `⌘`+ `Right Arrow`
 Go to Window | `⌘` + `Option` + `Number`
 
